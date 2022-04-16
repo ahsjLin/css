@@ -1,0 +1,20 @@
+/* text: black
+ * background color: gray
+ */ 
+code.co1{
+  color: #000;
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+/* text: white
+ * background color: black
+ */ 
+code.co2{
+  color: #fff;
+  background-color: #000;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
